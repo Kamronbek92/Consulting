@@ -1,0 +1,255 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;0,800;0,900;1,600;1,700;1,900&display=swap');
+
+* {
+    font-family: 'Playfair Display', sans-serif;
+}
+
+body, h1, h2, h3, ul, p {
+    margin: 0;
+    padding: 0;
+}
+body{
+   background-color: rgb(237, 240, 230);
+}
+h1 a .logo {
+    display: inline-block;
+}
+h5{
+    font-size: 25px;
+    color: saddlebrown;
+}
+.navbar1{
+    text-align: justify;
+}
+.contact{
+    text-align: center;
+    padding-bottom: 20px;   
+}
+#row1{
+    border: solid rgba(135, 139, 107, 0.555) 200px;
+}
+label{
+    color: #fff;
+}
+.paragraf{
+    font-size: 25px;
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+.jumbotron{
+    background-color: rgb(211, 189, 214);
+    padding-top: 95px;
+}
+strong{
+    text-align: center;
+}
+#header{
+    padding-top: 25px;
+    padding-bottom: 60px;
+    background-color: #35424a;
+}
+#content-py {
+    background-color: white;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-top: 40px;
+}
+#bayden {
+    background-color: rgb(211, 189, 214);
+    font-size: 300px;
+    padding: 50px 30px;
+}
+.pady{
+    font-size: 35px;
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+.pody{
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 5px;
+}
+.svg_inline{
+    text-align: center;
+    font-size: 60px;
+}
+#heding  {
+    padding-left: 150px;
+
+}
+.classik{
+    width: 33.3%;
+    float: left;
+    text-align: center;
+}
+
+#header h1{
+    color: #fff;
+    font-family: sans-serif;
+    padding:  0;
+    display: inline-block;
+}
+#header .logo{
+    text-emphasis: none;
+    color:rgba(240, 161, 14, 0.952);
+} 
+h4{
+    padding-left: 50% ;
+}
+.image-flaid{
+    padding-top: 30px;
+    padding-right: 600px;
+}
+
+.p-fluid{
+    padding-top: 30px;
+    padding-left: 30%;
+}
+.p-flaid{
+    padding-top: 20px;
+    padding-right: 30%;
+
+}
+/** Контакты **/
+.t567__bgimg {
+    width: 100px;
+    height: 100px;
+    max-width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 30px;
+}
+.t-margin_auto {
+    margin-left: auto;
+    margin-right: auto;
+}/** контакты **/
+.image-fleid{
+    padding-top: 30px;
+}
+.featurette{
+    padding-top: 30px;
+}
+
+.navbar{
+    float: right;
+}
+.navbar  li{
+    display: inline;
+}
+
+#habash{
+    background-color: #35424a;
+    margin-top: 50px;
+    margin-left: 35%;
+    margin-right: 35%;
+    padding-bottom: 2px;
+}
+.motor{
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #fff;
+    font-family:sans-serif;
+    padding: 25px 15px;
+    display: inline-block;
+    transition: .5s ease;
+}
+.navbar li a:hover{
+    color: coral;
+    transform: none;
+}
+
+.button{
+    padding: 5px 15px;
+    border: none;
+    background-color:coral;
+    color:#fff;
+    margin-left: 15px;
+
+}
+.nav-scroller h6 a:hover {
+    background-color: antiquewhite;
+    color: #f7c08a;
+}
+#courses{
+    padding: 30px 0;
+}
+.fax {
+    background-image: url(./rasm/consalt20.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: left bottom;
+
+}
+
+footer {
+    margin-top: 20px;
+    background-color: #283347;
+    color: #fff;
+}
+.text-primay{
+    color: coral;
+}
+#cource {
+    background-image: url(./rasm/consalt13.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+    margin-bottom: 20px;
+}
+
+
+#cource .cource-content{
+    text-align: center;
+    padding-top: 100px;
+    color:#fff;
+}
+#cource h1{
+    font-size: 60px;
+}
+#cource p {
+    padding-bottom: 20px;
+}
+
+.fixed {
+    padding-top: 50%;
+    
+}
+
+#first-menyu{
+    padding-bottom: 20px;
+}
+.sidebar{
+    width: 30%;
+    float: right;
+}
+.bg-dark{
+    background-color: rgb(49, 43, 43);
+    color: blanchedalmond;  
+}
+.service-box{
+    padding: 30px;
+    
+    margin: 15px 0 0 15px;
+    background-color: #e5e5e5;
+    border: 1px solid #555;
+}
+label{
+    display: block;
+    margin-bottom: 5px;   
+}
+
+.coder{
+    color: #fff;
+}
+
